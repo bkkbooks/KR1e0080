@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR1e0080/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR1e0080/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 春秋正旨
+  date: '2015-08-24 22:15:56.111126'
+  source:
+    repository: kanripo
+    path: KR1e0080
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR1e0080_000-WYG.yaml, hash: 'sha256:dc3dc2836e2774b2bbe8aedcc9049ef2800e8de8e8c7c985d823719a4e49d513'}
+  - {seq: 1, filename: KR1e0080_001-WYG.yaml, hash: 'sha256:345ee185335d2cb7071b7c78f135ff3cceab3f8e97b5f997dfe1115108f4461f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1e0080_000-WYG.markers.yaml, hash: 'sha256:d08b2c45bcf2d8e21b3c7ce015cdd885a065405171fcc6efe9e041f4653cc4eb'}
+  - {seq: 1, role: markers, filename: assets/KR1e0080_001-WYG.markers.yaml, hash: 'sha256:cdbd28256787566db02cbbe98c17388fc7914b964303f803bde00255e90008ae'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1e0080_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 365
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1e0080_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 5866
+  label: juan 001
+  type: section
+  level: 1
+hash: sha256:84a32edb630032938a935d07f67541698bd4c2dcff97d784480bf72a58a5d524
