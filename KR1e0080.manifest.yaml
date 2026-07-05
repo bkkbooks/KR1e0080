@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR1e0080_000.yaml, hash: 'sha256:e1f3c0e3dbb461aece2a1c7ede77570951e7c6f1782278a4615f0b83a0509b9e'}
-  - {seq: 1, filename: KR1e0080_001.yaml, hash: 'sha256:e1f29768086357cf2db505003d5501507f276d78ed3f5f78b4424f7c40fee162'}
+  - {seq: 0, filename: KR1e0080_000.yaml, hash: 'sha256:399891d8fbcfc42aee665eed233e0b24f2278106ba3402b60a860878eb0f1412'}
+  - {seq: 1, filename: KR1e0080_001.yaml, hash: 'sha256:b7f5ae755d9a2cfdc336bb4f8809319bb312e71be209032ba3f020b3874f9528'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0080_000.markers.yaml, hash: 'sha256:cdb62094885238d1683d545788a81e2bc21cdae7b1288853b255a6f396dcc415'}
-  - {seq: 1, role: markers, filename: assets/KR1e0080_001.markers.yaml, hash: 'sha256:d11b5c16b213b3357a8022d60983c3af3e20f0ca2ec0a50bd5f7016d8d5439ad'}
+  - {seq: 0, role: markers, filename: assets/KR1e0080_000.markers.yaml, hash: 'sha256:ccc95d4c251fff872afcb151fad0c2c4c02df34cce2cbf18e9a52cd58ea6bec1'}
+  - {seq: 1, role: markers, filename: assets/KR1e0080_001.markers.yaml, hash: 'sha256:1a5258444604ca4d529dc71049a99795cec82376682cb55f577dbe2c9e564836'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,4 @@ table_of_contents:
   label: 春秋正旨
   type: section
   level: 1
-hash: sha256:f30aa815868a1faf4bac3078289d11714cafbdf8d23038114ea934fed5a869be
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8d46736fc3fc7d0d8bac6cdd1dec78e24b0a87742197ece36e2065248d24351e
