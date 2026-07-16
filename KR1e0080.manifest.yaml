@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR1e0080_000.yaml, hash: 'sha256:0809614174dd2fbc2678ecdb27311054087d0d545ad38b3ea0762c7e70af246b'}
   - {seq: 1, filename: KR1e0080_001.yaml, hash: 'sha256:2048a754ef42bda31c2d18a5c2a283e6c765bf934e0bb3c40e403c20c4ade0c0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0080_000.markers.yaml, hash: 'sha256:cb61f58e53677e0689de236314e37de3e0c970e2a03dc06e0cd01d7608c7037e'}
+  - {seq: 0, role: markers, filename: assets/KR1e0080_000.markers.yaml, hash: 'sha256:b289ebb4e821aaaecf1280f2f6fc6a8a8127d0f2c7b4f4bab303ff63af2903ca'}
   - {seq: 1, role: markers, filename: assets/KR1e0080_001.markers.yaml, hash: 'sha256:6a40f6d9c1910a187bd64cd5e86fa7344e823754e3556bd8cb12bbcee59c729e'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 春秋正旨
   type: section
   level: 1
-hash: sha256:6ae6a1c0512a267755d03ff04248b2cf058145f2d58ab37c02846a31b1c94376
+hash: sha256:62b94c8178d5ac03e8d9e13d940285011f5f17d4e2f152c49c3b29109283e02c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
